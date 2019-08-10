@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HackathonWebQuestions", "HackathonWebQuestions\HackathonWebQuestions.csproj", "{3EF1F378-D0CD-4E9F-91E3-380492FDF71F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HackathonWebQuestionsTest", "HackathonWebQuestions\HackathonWebQuestionsTest\HackathonWebQuestionsTest.csproj", "{5A3E38C0-124E-4EA2-9DBC-8A272557AE10}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3EF1F378-D0CD-4E9F-91E3-380492FDF71F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3EF1F378-D0CD-4E9F-91E3-380492FDF71F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3EF1F378-D0CD-4E9F-91E3-380492FDF71F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3EF1F378-D0CD-4E9F-91E3-380492FDF71F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A3E38C0-124E-4EA2-9DBC-8A272557AE10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A3E38C0-124E-4EA2-9DBC-8A272557AE10}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A3E38C0-124E-4EA2-9DBC-8A272557AE10}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A3E38C0-124E-4EA2-9DBC-8A272557AE10}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0A793E69-4DC2-444E-92B4-98876AC77327}
+	EndGlobalSection
+EndGlobal
